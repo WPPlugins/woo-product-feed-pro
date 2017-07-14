@@ -1,0 +1,12 @@
+So you found my to-do list for future features in this plugin? Well, hope you enjoy the little sneak preview of what's coming. Missing some features you might like? Drop me a line at support@adtribes.io and we might just add it to the list. Thanks!
+
+FOR NEXT VERSIONS:
+- Credentials / user-level introduction
+- Add Google Analytics conversion tracking integration
+- Add eBay and Amazon feed support
+- Cron interval configurable for user (exact timing)
+- Regular expression usage in category mapping and feed rule settings
+- Tabbed configuration of feed
+- Add localisation (at least for nl_NL and nl_BE / fr_BE) - https://codex.wordpress.org/I18n_for_WordPress_Developers#Translating_Plugins_and_Themes
+- Add custom fields in which users can fill in their own column name AND value
+- Add custom fields, created from combinations of exisiting attributes
